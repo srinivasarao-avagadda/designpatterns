@@ -1,3 +1,7 @@
 /.idea/
 /designpatterns.iml
 /target/
+/.classpath
+/.project
+/.settings/
+/bin/
